@@ -5,7 +5,7 @@ body {
 /* top contanier */
 .Top-container {
   width: 100%;
-  background-image: url(../login/work-on-computer.jpg);
+  background-image: url(./work-on-computer.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
